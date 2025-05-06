@@ -1,5 +1,5 @@
 fastapi
-uvicorn
-python-multipart
+uvicorn[standard]
 opencv-python
 mediapipe
+python-multipart
