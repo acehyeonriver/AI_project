@@ -2,4 +2,7 @@ fastapi
 uvicorn[standard]
 python-multipart
 opencv-python
-mediapipe
+mediapipe==0.10.11
+protobuf>=3.20.0,<4.0.0
+absl-py
+flatbuffers>=2.0
